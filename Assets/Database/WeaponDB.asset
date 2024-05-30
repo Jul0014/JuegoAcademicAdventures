@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6a9ebd45d14ce4393fd0bd981c9d74, type: 3}
+  m_Name: WeaponDB
+  m_EditorClassIdentifier: 
+  weaponList:
+  - weaponName: "Linterna P\xFArpura"
+    weaponDescription: "Gui\xF1o, gui\xF1o. Era todo lo que ten\xEDas en la mochila.
+      No preguntes."
+    weaponSprite: {fileID: 21300000, guid: 82a72eeb30dd4c34c9c3a6df26f2ecfe, type: 3}
+    gameWeapon: {fileID: 1337477536201320314, guid: 16c541b553438c346a297cb6f67857ca, type: 3}
+  - weaponName: "L\xE1piz          Azul"
+    weaponDescription: "Me lo prest\xF3 un compa\xF1ero, me pregunto si se acuerda
+      que se lo debo regresar."
+    weaponSprite: {fileID: 21300000, guid: 236a789511cc7894283f6b6ce4a4148f, type: 3}
+    gameWeapon: {fileID: 6984931096058076056, guid: 0eec241e3c31ea74c9e99bd85f28f273, type: 3}
